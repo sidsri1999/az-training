@@ -1,14 +1,20 @@
 # Load Balancer
 
 ## Use Case
-The diagram indicates the output, we need to achieve:
+The goal need to achieve:
 <img width="1346" alt="Screenshot 2024-07-08 at 7 39 26 PM" src="https://github.com/sidsri1999/az-training/assets/61539851/52110a8f-4c6e-495a-8cf1-3ce1651062aa">
 
 
 ## Steps
 
-### Create a resource group
-<img width="477" alt="Screenshot 2024-07-04 at 11 58 15 PM" src="https://github.com/sidsri1999/az-training/assets/61539851/e137526b-9c10-41d9-a106-d4535b214df5">
+### 1. Create a resource group
+1. resource group: rg-contoso-06
+2. region name: West US
+<img width="432" alt="Screenshot 2024-07-08 at 11 01 51 PM" src="https://github.com/sidsri1999/az-training/assets/61539851/7694300b-2ef0-49be-9623-8b832e4f7906">
+
+
+https://github.com/sidsri1999/az-training/assets/61539851/c8a95032-4b8d-4400-8060-c5ea45b99bec
+
 
 ### Create a virtual network
 <img width="516" alt="Screenshot 2024-07-05 at 12 04 30 AM" src="https://github.com/sidsri1999/az-training/assets/61539851/1888efbe-d2d3-44cf-9845-7a71c742f64f">
