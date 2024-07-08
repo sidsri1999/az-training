@@ -2,7 +2,8 @@
 
 ## Use Case
 The diagram indicates the output, we need to achieve:
-<img width="837" alt="Screenshot 2024-07-04 at 11 52 51 PM" src="https://github.com/sidsri1999/az-training/assets/61539851/b349e490-5d89-4eff-8541-2351facf2622">
+<img width="1187" alt="Screenshot 2024-07-08 at 7 37 06 PM" src="https://github.com/sidsri1999/az-training/assets/61539851/4eecc904-985d-46dc-8086-fbd3ff298a10">
+
 
 ## Steps
 
