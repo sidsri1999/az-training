@@ -1,7 +1,7 @@
 # Load Balancer
 
 ## Use Case
-The goal need to achieve:
+The goal needs to achieve:
 <img width="1346" alt="Screenshot 2024-07-08 at 7 39 26 PM" src="https://github.com/sidsri1999/az-training/assets/61539851/52110a8f-4c6e-495a-8cf1-3ce1651062aa">
 
 
@@ -31,8 +31,8 @@ https://github.com/sidsri1999/az-training/assets/61539851/410e1984-01f3-40e0-8b0
 ### 6. Creating Load Balancer
 https://github.com/sidsri1999/az-training/assets/61539851/3774cb51-0fc7-4668-b649-190981fcaf1f
 
-
-
+### 7. Working of Load Balancer
+https://github.com/sidsri1999/az-training/assets/61539851/5ad87c22-43fb-45fe-a293-99be2660e15d
 
 
 
